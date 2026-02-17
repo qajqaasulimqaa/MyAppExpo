@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Welcome to My First  Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -15,6 +15,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
    npx expo start
    ```
+   HERE you can download the app. Please note it is only Android friendly, as i am Android user and i like Android hehe
+<img width="545" height="597" alt="image" src="https://github.com/user-attachments/assets/a322c17a-1363-4b79-8c48-15844021e901" />
+
 
 In the output, you'll find options to open the app in a
 
