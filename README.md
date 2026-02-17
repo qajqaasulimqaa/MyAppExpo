@@ -1,54 +1,22 @@
-# Welcome to My First  Expo app 👋
+# Welcome to My First Expo App 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A simple news app built for Module 6.
 
-## Get started
+## Features
+- **Login screen** — type anything you like and pick a profile image to get started
+- **Form validation** — forgot to type something? A modal will let you know!
+- **Personalized greeting** — the main page welcomes you by name
+- **Live news feed** — get the hottest headlines right now powered by NewsAPI
 
-1. Install dependencies
+## Download
+> ⚠️ Android only — download the APK below and install it directly on your device!
 
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-   HERE you can download the app. Please note it is only Android friendly, as i am Android user and i like Android hehe
 <img width="545" height="597" alt="image" src="https://github.com/user-attachments/assets/a322c17a-1363-4b79-8c48-15844021e901" />
 
+## Built With
+- [Expo](https://expo.dev)
+- [React Native](https://reactnative.dev)
+- [NewsAPI](https://newsapi.org)
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-# MyAppExpo
+## Notes
+This app is Android only as it was built and tested on an Android device.
